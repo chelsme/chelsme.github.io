@@ -9,9 +9,9 @@ const Projects = () => {
         {projectData.map((project, index) => (
           <li className="mb-4" key={index}>
             <h3 className="text-xl">Project {index + 1}</h3>
-            <div className="mt-2 flex flex-wrap gap-2">
+            <div className="flex flex-wrap gap-2 my-2">
               {project.technologies.map((tech, idx) => (
-                <span key={idx} className="bg-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm">
+                <span key={idx} className="pill">
                   {tech}
                 </span>
               ))}

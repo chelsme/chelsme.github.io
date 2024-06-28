@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .pill {
+    @apply bg-customPillBg text-customPillText px-pill-x py-pill-y rounded-pill text-pill;
+  }
+}
+
 html {
   scroll-behavior: smooth;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.75;
 }

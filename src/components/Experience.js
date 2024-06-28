@@ -11,9 +11,9 @@ const Experience = () => {
             <h3 className="text-xl">{job.company}</h3>
             <p className="text-gray-600">{job.role}</p>
             <p className="text-gray-600">{job.period}</p>
-            <div className="flex flex-wrap gap-2">
+            <div className="flex flex-wrap gap-2 my-2">
               {job.technologies.map((tech, idx) => (
-                <span key={idx} className="bg-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm">
+                <span key={idx} className="pill">
                   {tech}
                 </span>
               ))}
