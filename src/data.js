@@ -3,7 +3,7 @@ export const personalData = {
   location: "San Antonio, TX",
   email: "chelsea.crowson@me.com",
   linkedin: "https://www.linkedin.com/in/chelseacrowson/",
-  bio: "Senior Full-stack developer with a passion for crafting seamless user experiences across various platforms. My expertise spans front-end, back-end, and mobile development, allowing me to approach projects from multiple perspectives and deliver innovative solutions. With a diverse skill set and an affinity for continuous learning, I thrive in the ever-changing tech industry. As a problem solver and creative thinker, I take pride in leveraging my menagerie of skills to build scalable and robust applications that make a positive impact for clients and users alike."
+  bio: "Senior Full-stack developer with a passion for crafting seamless user experiences across various platforms. My expertise spans front-end, back-end, and mobile development, allowing me to approach projects from multiple perspectives and deliver innovative solutions. With a diverse skill set and an affinity for continuous learning, I thrive in the ever-changing tech industry. As a problem solver and creative thinker, I take pride in leveraging my menagerie of skills to build scalable and robust applications that make a positive impact for clients and users alike.",
 }
 
 export const experienceData = [
@@ -16,7 +16,7 @@ export const experienceData = [
       "Driving innovation and collaboration through effective team leadership and project execution",
       "Delivering seamless user experiences across diverse applications",
     ],
-    technologies: ["React", "Angular", "Swift", "REST APIs", "GraphQL", "Agile", "Redis"]
+    technologies: ["React", "Angular", "Swift", "Node", "GraphQL", "REST APIs", "Agile", "Redis"]
   },
   {
     company: "Accenture",

@@ -5,6 +5,9 @@ const Projects = () => {
   return (
     <section id="projects" className="p-6">
       <h2 className="text-2xl border-b-2 border-gray-800 pb-2">Projects</h2>
+      <p className="text-lg mt-4 mb-6">
+        Throughout my career, I have primarily worked in consulting, which has given me a wealth of experience across a variety of short-term projects. This dynamic environment has required me to quickly scale up and adapt to new technologies and project requirements, enhancing my versatility and expertise.
+      </p>
       <ul className="mt-4">
         {projectData.map((project, index) => (
           <li className="mb-4" key={index}>
