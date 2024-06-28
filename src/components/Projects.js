@@ -13,6 +13,10 @@ const Projects = () => {
           <h3 className="text-xl">Project B</h3>
           <p>Description of Project B</p>
         </li>
+        <li className="mb-4">
+          <h3 className="text-xl">Project C</h3>
+          <p>Description of Project C</p>
+        </li>
       </ul>
     </section>
   );
