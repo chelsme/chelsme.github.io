@@ -8,7 +8,7 @@ const Projects = () => {
       <ul className="mt-4">
         {projectData.map((project, index) => (
           <li className="mb-4" key={index}>
-            <h3 className="text-xl">{project.title}</h3>
+            <h3 className="text-xl">Project {index + 1}</h3>
             <div className="mt-2 flex flex-wrap gap-2">
               {project.technologies.map((tech, idx) => (
                 <span key={idx} className="bg-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm">
