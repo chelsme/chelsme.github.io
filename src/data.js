@@ -44,6 +44,7 @@ export const experienceData = [
 
 export const projectData = [
   {
+    "title": "Pyxis",
     "description": "Data analytics app. Platform for tracking sales and creating reports using data to display tables and charts showcasing report data.",
     "technologies": [
       "NestJS",
@@ -54,6 +55,7 @@ export const projectData = [
     "period": "08/2023 - 06/2024"
   },
   {
+    "title": "Vital Energy",
     "description": "Developed an iPad app for tracking tasks and assets.",
     "technologies": [
       "SwiftUI"
@@ -61,6 +63,7 @@ export const projectData = [
     "period": "06/2023 - 08/2023"
   },
   {
+    "title": "Earth",
     "description": "Backend Tech Lead and Backend developer for large scale internal client dashboard.",
     "technologies": [
       "NodeJS",
@@ -71,6 +74,7 @@ export const projectData = [
     "period": "01/2023 - 05/2023"
   },
   {
+    "title": "BettorVision",
     "description": "Tech Lead and Backend developer for customer-facing iOS app regarding sports betting and fantasy sports.",
     "technologies": [
       "NodeJS",
@@ -81,6 +85,7 @@ export const projectData = [
     "period": "02/2023 - 12/2023"
   },
   {
+    "title": "Schlumberger Reservoir Analytics",
     "description": "Front-end developer on Oil and Gas Analytics app. Created reusable D3 charts and graphs with variable axes.",
     "technologies": [
       "React",
@@ -90,6 +95,7 @@ export const projectData = [
     "period": "10/2021 - 02/2022"
   },
   {
+    "title": "Shell TapUp",
     "description": "Developed an iOS app for task and asset tracking.",
     "technologies": [
       "Swift"
@@ -97,6 +103,7 @@ export const projectData = [
     "period": "09/2021 - 10/2021"
   },
   {
+    "title": "OGE (Oklahoma Gas, and Electric)",
     "description": "Co-owned 24 pages of global site redesign. Authored reusable components to be utilized throughout the global restructure of the webpage.",
     "technologies": [
       "IBM WebSphere Application Server"
@@ -104,6 +111,7 @@ export const projectData = [
     "period": "07/2021 - 09/2021"
   },
   {
+    "title": "Comcast",
     "description": "Front-end developer and mentor on multi-part microservices redesign. Mentored junior developers on best practices.",
     "technologies": [
       "React",
@@ -112,6 +120,7 @@ export const projectData = [
     "period": "11/2020 - 07/2021"
   },
   {
+    "title": "Lockheed Martin",
     "description": "Co-lead a team to refactor an internal application to incorporate reusable elements. Mentored junior developers on best practices of reusable components.",
     "technologies": [
       "React",
@@ -120,6 +129,7 @@ export const projectData = [
     "period": "11/2020"
   },
   {
+    "title": "State Farm Sundial",
     "description": "Full-stack developer on a custom client-facing Alexa Skill for a major insurance company.",
     "technologies": [
       "Alexa Skills Kit",
@@ -129,6 +139,7 @@ export const projectData = [
     "period": "01/2020 - 11/2020"
   },
   {
+    "title": "iShale",
     "description": "Front-end developer on major system redesign for an internal use application. Built and standardized reusable components to be shared throughout the application and for use by other development teams.",
     "technologies": [
       "React"
@@ -136,13 +147,15 @@ export const projectData = [
     "period": "03/2020 - 05/2020"
   },
   {
-    "description": "Worked on a university project involving Ruby on Rails.",
+    "title": "Northeastern University",
+    "description": "Worked on a university project involving Ruby on Rails and D3.",
     "technologies": [
       "Ruby on Rails"
     ],
     "period": "12/2019 - 01/2020"
   },
   {
+    "title": "Iowa Medicaid",
     "description": "Proof of Concept for internal Accenture effort. Assisted in creation of functioning front-end application built on locally created mock data.",
     "technologies": [
       "Angular"
