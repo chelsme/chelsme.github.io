@@ -16,7 +16,7 @@ export const experienceData = [
       "Driving innovation and collaboration through effective team leadership and project execution",
       "Delivering seamless user experiences across diverse applications",
     ],
-    technologies: ["React", "Angular", "Swift", "Node", "GraphQL", "REST APIs", "Agile", "Redis"]
+    technologies: ["React", "Angular", "Swift", "Node", "GraphQL", "REST APIs", "Agile", "Redis", "TailwindCSS"]
   },
   {
     company: "Accenture",
